@@ -15,3 +15,4 @@ My awesome article
 
 -   [x] Replace image
 -   [ ] Write an awesome article
+-   [ ] 한국어 지원(?)
