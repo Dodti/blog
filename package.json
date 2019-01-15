@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter",
+  "name": "dodti-blog",
   "version": "1.0.0",
-  "description": "Gatsby 1.0 starter",
-  "author": "fabien0102 <fabien0102@gmail.com>",
+  "description": "dodti's develop blog",
+  "author": "ybambi002@gmail.com <ybambi002@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
