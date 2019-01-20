@@ -1,23 +1,11 @@
-# gatsby-blog-starter-kit
+## Dodti's blog
 
-[![Build Status](https://travis-ci.org/DSchau/gatsby-blog-starter-kit.svg?branch=master)](https://travis-ci.org/DSchau/gatsby-blog-starter-kit) [![Greenkeeper badge](https://badges.greenkeeper.io/DSchau/gatsby-blog-starter-kit.svg)](https://greenkeeper.io/)
+gatsby + Netlify
 
-Use this starter kit to jump start (or use as a reference) a great blog with [gatsby][gatsby]
+리액티 공부 해볼려고 만든 블로그 인데
 
-![Blog example](./assets/gatsby-blog-starter-kit.png)
+프론트엔드 1 도 몰라서 버버벅 하는 중
 
-## Features
+ctf 문제와 백준 알고리즘 위주 리뷰 예정
 
-1. Blog post listing with previews for each blog post
-1. Navigation between posts with a previous/next post button
-1. Tags and tag navigation
-1. Responsive images via [gatsby-remark-images][gatsby-remark-images]
-
-## Set up
-
-1. Clone this repo
-1. `yarn`
-1. `yarn start`
-
-[gatsby]: https://www.gatsbyjs.org/
-[gatsby-remark-images]: https://www.gatsbyjs.org/packages/gatsby-remark-images/
+~~할 수 있을까...~~
